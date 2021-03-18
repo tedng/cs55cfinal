@@ -1,3 +1,2 @@
-# Deploying a Static Website to AWS S3 using Jenkins or Github Actions  
+# Deploying a Static Website to AWS S3 using Jenkins and Github s  
 
-For more details: https://amlanscloud.com/jenkinsdeploys3/# cs55cfinal
